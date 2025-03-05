@@ -33,4 +33,4 @@ index.html: Main HTML file containing the page's structure and content.
 style.css: CSS file used for styling the page, including the background, layout, and individual components.
 
 back.jpg: Background image for the landing page.
-
+https://allu12388uh.github.io/Internship-Landing-page-main/
